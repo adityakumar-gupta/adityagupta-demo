@@ -1,3 +1,4 @@
 # adityagupta-demo
-this is my first git repository
-author - aditya kumar gupta
+this is my first git repository.
+<br>
+Author - aditya kumar gupta
